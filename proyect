@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rescue An Animal Foundation</title>
+
+<link rel="stylesheet" href="layout.css">
+
+</head>
+<body>
+
+<div class="topnav">
+  <div class="header1"
+  <h2>Rescue An Animal Foundation</h2>
+</div>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a class="active" href="#home">Home</a>
+</div>
+
+<div class="row">
+
+      <div class="Erica">
+       
+          <figure><img src="Erica.jpg" width="290" height="180" alt="">
+            <figcaption>
+              <h2>Erica</h2>
+              <p>Playful dog who loves to play catch and to fight with the water hose.</p>
+              <p><a href="https://www.google.com/">Read More</a></p>
+            </figcaption>
+          </figure>
+     
+      </div>
+
+
+      <div class="Toby">
+      
+          <figure><img src="Toby.jpg" width="290" height="180" alt="">
+            <figcaption>
+              <h2>Toby</h2>
+              <p>Cutest cat who loves snuggles but also mouses, so be prepared to receive some very mindful gifts!</p>
+              <p><a href="https://www.google.com/">Read More</a></p>
+            </figcaption>
+          </figure>
+       
+      </div>
+
+<div class="Spencer">
+       
+          <figure><img src="Spencer.jpg" width="290" height="180" alt="">
+            <figcaption>
+              <h2>Spencer</h2>
+              <p>This dog will follow you until the end of the world, specially if you have any treats.</p>
+              <p><a href="https://www.google.com/">Read More</a></p>
+              
+            </figcaption>
+          </figure>
+       
+      </section>
+
+     
+
+        <div class="A">
+          
+            <figure><img src="A.jpg" width="290" height="180" alt="">
+              <figcaption>
+                <h2>A</h2>
+                <p>SGVFJSDGFJSDFJHSDG</p>
+                <p><a href="https://www.google.com/">Read More</a></p>
+              </figcaption>
+            </figure>
+       
+        </div>
+
+        <div class="B">
+         
+            <figure><img src="B.jpg" width="290" height="180" alt="">
+              <figcaption>
+                <h2>B</h2>
+                <p>SGVFJSDGFJSDFJHSDG</p>
+                <p><a href="https://www.google.com/">Read More</a></p>
+              </figcaption>
+            </figure>
+          
+        </div>
+      
+        <div class="C">
+        
+            <figure><img src="C.jpg" width="290" height="180" alt="">
+              <figcaption>
+                <h2>C</h2>
+                <p>SGVFJSDGFJSDFJHSDG</p>
+                <p><a href="https://www.google.com/">Read More</a></p>
+              </figcaption>
+            </figure>
+      
+        </div>
+</div>
+
+
+
+
+<footer>
+
+</footer>
+</div>
+</body>
+</html>
