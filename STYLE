@@ -32,33 +32,21 @@
     color: white;
   }
 
+* {
+  box-sizing: border-box;
+}
 
-  .Toby {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-
-
-  }
-
-  .Erica {
-    float: center;
-    width: 33.33%;
-    padding: 5px;
-
-  }
-
-  .Spencer {
-  float: right;
+.column {
+  float: left;
   width: 33.33%;
   padding: 5px;
-  }
-  
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
   .A {
     float: right;
