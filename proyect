@@ -19,43 +19,31 @@
 
 <div class="row">
 
-      <div class="Erica">
-       
-          <figure><img src="Erica.jpg" width="290" height="180" alt="">
-            <figcaption>
-              <h2>Erica</h2>
-              <p>Playful dog who loves to play catch and to fight with the water hose.</p>
-              <p><a href="https://www.google.com/">Read More</a></p>
-            </figcaption>
-          </figure>
-     
-      </div>
+  <h2>Take a look at these lovely pets</h2>
+  <p>One of them can be your new friend:</p>
 
-
-      <div class="Toby">
-      
-          <figure><img src="Toby.jpg" width="290" height="180" alt="">
-            <figcaption>
-              <h2>Toby</h2>
-              <p>Cutest cat who loves snuggles but also mouses, so be prepared to receive some very mindful gifts!</p>
-              <p><a href="https://www.google.com/">Read More</a></p>
-            </figcaption>
-          </figure>
-       
-      </div>
-
-<div class="Spencer">
-       
-          <figure><img src="Spencer.jpg" width="290" height="180" alt="">
-            <figcaption>
-              <h2>Spencer</h2>
-              <p>This dog will follow you until the end of the world, specially if you have any treats.</p>
-              <p><a href="https://www.google.com/">Read More</a></p>
-              
-            </figcaption>
-          </figure>
-       
-      </section>
+<div class="row">
+  <div class="column">
+    <h2>Erica</h2>
+    <img src="Erica.jpg" alt="Erica" style="width:100%">
+     <p>A playful dog who loves to play catch and to fight with the water hose.</p>
+    <p><a href="https://www.google.com/">Read More</a></p>
+  </div>
+  
+  <div class="column">
+    <h2>Toby</h2>
+    <img src="Toby.jpg" alt="Toby" style="width:100%">
+    <p>Cutest cat who loves snuggles but also mouses, so be prepared to receive some very mindful gifts!</p>
+    <p><a href="https://www.google.com/">Read More</a></p>
+  </div>
+  
+  
+  <div class="column">
+    <h2>Spencer</h2>
+    <img src="Spencer.jpg" alt="Spencer" style="width:100%">
+    <p>This dog will follow you until the end of the world, specially if you have any treats.</p>
+    <p><a href="https://www.google.com/">Read More</a></p>
+  </div>
 
      
 
